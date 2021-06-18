@@ -1,6 +1,6 @@
 package com.company;
 
-public class StrategyImp1 implements IStrategy {
+public class StrategyImpl1 implements IStrategy {
 
     @Override
     public void applyStrategy() {

@@ -5,7 +5,7 @@ public class Context {
     public void applyStrategy(){
         if(strategy==null)
             //apply the default strategy if none is specified
-            strategy=new StrategyImp1();
+            strategy=new StrategyImpl1();
         strategy.applyStrategy();
     }
 

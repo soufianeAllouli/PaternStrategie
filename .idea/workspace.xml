@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d72ae59-f29c-4026-bbc8-48e907db0e21" name="Default Changelist" comment="" />
+    <list default="true" id="4d72ae59-f29c-4026-bbc8-48e907db0e21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StrategyToApply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/paternStrategy/com/company/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/paternStrategy/com/company/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/paternStrategy/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/paternStrategy/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/paternStrategy/com/company/StrategyImp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/paternStrategy/com/company/StrategyImp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/paternStrategy/com/company/StrategyImp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StrategyImp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StrategyImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StrategyImp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StrategyImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StrategyImp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StrategyImpl3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,19 +30,25 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1u8QkdEZHJHU7RkQlzMqpK71B2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -73,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624044881305</updated>
-      <workItem from="1624044886786" duration="2707000" />
+      <workItem from="1624044886786" duration="6827000" />
     </task>
     <servers />
   </component>
@@ -89,22 +110,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1624046919324" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1624049615022">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1624053763867">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624049615022" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1624049615022">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624053763867" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1624053763867">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624049615022" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1624049615021">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624053763867" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1624053763867">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624049615021" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1624049615022">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624053763867" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1624053763867">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624049615022" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624053763867" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1624044914055">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
